@@ -1,0 +1,18 @@
+# ===== 只公开这 5 个目录，其余一律忽略 =====
+/java/
+/linux/
+/.obsidian/
+
+# 根目录的笔记截图：八股/毕设/苍穹外卖/黑马点评/web 里没有任何一篇引用它们
+/*.png
+
+# Obsidian 回收站
+.trash/
+
+# AI 协作工具的记忆目录：记录的是工作过程与偏好，不属于笔记内容
+.workbuddy/
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
